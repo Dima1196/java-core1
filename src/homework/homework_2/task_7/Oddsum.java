@@ -1,4 +1,4 @@
-package homework.task_7;
+package homework.homework_2.task_7;
 
 public class Oddsum {public static void main(String [] args){
     int sumOfOddNumbers=0;

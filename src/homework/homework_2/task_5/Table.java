@@ -1,4 +1,4 @@
-package homework.task_5;
+package homework.homework_2.task_5;
 
 public class Table {
     public static void main(String [] args){

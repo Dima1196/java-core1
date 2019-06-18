@@ -1,4 +1,4 @@
-package homework.task_6;
+package homework.homework_2.task_6;
 
 public class Outputnumbers {
     public static void main(String [] args){

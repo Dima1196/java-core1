@@ -1,4 +1,4 @@
-package homework.task_1;
+package homework.homework_2.task_1;
 
 public class Sport {
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package homework.task_2;
+package homework.homework_2.task_2;
 
 public class Segmentation {
     public static void main(String[]args){

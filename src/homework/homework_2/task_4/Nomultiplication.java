@@ -1,7 +1,7 @@
-package homework.task_4;
+package homework.homework_2.task_4;
 
 public class Nomultiplication {
-    public static void main(String[]args) {
+    public static void main(String[] args) {
         int A = 11;
         int B = 2;
         int intermediateResultSum = 0;

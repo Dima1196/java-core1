@@ -1,4 +1,4 @@
-package homework.task_8;
+package homework.homework_2.task_8;
 
 public class Triangles {
     public static void main(String[] args) {
