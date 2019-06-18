@@ -1,5 +1,5 @@
 package homework.homework_2.task_4;
-
+// NoMultiplication - два слова
 public class Nomultiplication {
     public static void main(String[] args) {
         int A = 11;
@@ -13,5 +13,5 @@ public class Nomultiplication {
         }
         System.out.println(resultMultiplicationsAB);
     }
-
+// убирай такие пробелы
 }
