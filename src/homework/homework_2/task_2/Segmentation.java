@@ -5,7 +5,7 @@ public class Segmentation {
         int startingAmeba=1;
         int time=0;
         int sumSigmentationcell=0;
-        // i +=3 - сразу цикл на каждый 3ч
+        // i +=3 - сразу цикл на каждый 3ч и переменная time не нужна будет
         for( int i=0; i<8; i++){
             // i количество делений
             time+=3;
